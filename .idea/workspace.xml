@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d97c2c84-a082-4e3f-99cf-7ecff6388b57" name="Changes" comment="feat: Questions" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rachitsharma300&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rachitsharma300/mocktest.git&quot;,
+    &quot;accountId&quot;: &quot;0fac58cc-cc97-435e-ae6b-225321b4850c&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="33KNq20oSM9xf0P2cBQfYSTh55M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MockTestAppApplication.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/MAUSAM/Desktop/mocktest",
+    "settings.editor.selected.configurable": "advanced.settings"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d97c2c84-a082-4e3f-99cf-7ecff6388b57" name="Changes" comment="" />
+      <created>1759061990796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759061990796</updated>
+    </task>
+    <task id="LOCAL-00001" summary="init: Mock Test App Project file">
+      <option name="closed" value="true" />
+      <created>1759062070922</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759062070922</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: Create QuestionController with GET /api/questions endpoint">
+      <option name="closed" value="true" />
+      <created>1759062513735</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759062513735</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Implement QuestionService: getAllQuestions() method">
+      <option name="closed" value="true" />
+      <created>1759062529616</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759062529616</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Create Question model with fields: questionText, options, correctAnswer">
+      <option name="closed" value="true" />
+      <created>1759062550655</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759062550656</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: Questions">
+      <option name="closed" value="true" />
+      <created>1759062574542</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1759062574542</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init: Mock Test App Project file" />
+    <MESSAGE value="feat: Create QuestionController with GET /api/questions endpoint" />
+    <MESSAGE value="Implement QuestionService: getAllQuestions() method" />
+    <MESSAGE value="Create Question model with fields: questionText, options, correctAnswer" />
+    <MESSAGE value="feat: Questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Questions" />
+  </component>
+</project>
