@@ -14,17 +14,17 @@ public class QuestionService {
     @Autowired
     private QuestionRepository questionRepository;
 
-    // ✅ Fetch all questions
+    // Fetch all questions
     public List<Question> getAllQuestions() {
         return questionRepository.findAll();
     }
 
-    // ✅ Save a question (useful if you want an Admin panel later)
+    // Save a question (useful if you want an Admin panel later)
     public Question addQuestion(Question question) {
         return questionRepository.save(question);
     }
 
-    // ✅ Calculate score based on user answers
+    // Calculate score based on user answers
     public int calculateScore(Map<String, String> userAnswers) {
         int score = 0;
         for (Map.Entry<String, String> entry : userAnswers.entrySet()) {
