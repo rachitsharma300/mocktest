@@ -1,0 +1,1002 @@
+[
+  {
+    "questionText": "Find the missing number: 2, 6, 12, 20, 30, ?",
+    "options": ["36", "40", "42", "45"],
+    "correctAnswer": "42"
+  },
+  {
+    "questionText": "A, C, F, J, O, ?",
+    "options": ["T", "U", "V", "W"],
+    "correctAnswer": "U"
+  },
+  {
+    "questionText": "7, 14, 28, 56, ?",
+    "options": ["84", "98", "112", "120"],
+    "correctAnswer": "112"
+  },
+  {
+    "questionText": "19, 18, 16, 13, 9, ?",
+    "options": ["4", "5", "6", "7"],
+    "correctAnswer": "4"
+  },
+  {
+    "questionText": "AZ, BY, CX, DW, ?",
+    "options": ["EV", "EU", "FV", "EW"],
+    "correctAnswer": "EV"
+  },
+  {
+    "questionText": "If CAT = DBU, then DOG = ?",
+    "options": ["EPH", "EQH", "EPI", "EOH"],
+    "correctAnswer": "EPH"
+  },
+  {
+    "questionText": "In a certain code, STAR = 53, MOON = 57. What will SUN = ?",
+    "options": ["47", "49", "51", "53"],
+    "correctAnswer": "49"
+  },
+  {
+    "questionText": "If NOTE is coded as OPUF, then what is WORD coded as?",
+    "options": ["XPSE", "XPSF", "XQSF", "YPSF"],
+    "correctAnswer": "XPSF"
+  },
+  {
+    "questionText": "If BOOK = 43, PEN = 35, then COPY = ?",
+    "options": ["47", "49", "51", "53"],
+    "correctAnswer": "49"
+  },
+  {
+    "questionText": "In a code language, 'WORK IS GOOD' is written as '47 82 91'. Then 'GOOD' is coded as?",
+    "options": ["81", "89", "91", "93"],
+    "correctAnswer": "91"
+  },
+  {
+    "questionText": "A is the brother of B. B is the son of C. D is the father of C. How is A related to D?",
+    "options": ["Son", "Grandson", "Nephew", "Brother"],
+    "correctAnswer": "Grandson"
+  },
+  {
+    "questionText": "Pointing to a girl, A said, 'She is the daughter of my grandfather's only son.' How is the girl related to A?",
+    "options": ["Sister", "Cousin", "Aunt", "Niece"],
+    "correctAnswer": "Sister"
+  },
+  {
+    "questionText": "P is the father of Q, who is the mother of R. How is P related to R?",
+    "options": ["Father", "Grandfather", "Uncle", "Brother"],
+    "correctAnswer": "Grandfather"
+  },
+  {
+    "questionText": "A man said, 'That lady is my mother's only son's wife.' Who is the lady to the man?",
+    "options": ["Sister", "Mother", "Wife", "Sister-in-law"],
+    "correctAnswer": "Wife"
+  },
+  {
+    "questionText": "Pointing to a boy, Rita said, 'He is the son of my grandfather's daughter.' How is the boy related to Rita?",
+    "options": ["Brother", "Cousin", "Nephew", "Son"],
+    "correctAnswer": "Cousin"
+  },
+  {
+    "questionText": "A man walks 3 km north, then 4 km east, then 5 km south. How far is he from the starting point?",
+    "options": ["2 km", "3 km", "4 km", "5 km"],
+    "correctAnswer": "2 km"
+  },
+  {
+    "questionText": "A person walks 10 km west, then 5 km south. What is the shortest distance from his starting point?",
+    "options": ["5√5 km", "11.2 km", "12 km", "15 km"],
+    "correctAnswer": "11.2 km"
+  },
+  {
+    "questionText": "A walks 4 km north, then turns right and walks 3 km, then turns right again and walks 4 km. How far is A from the starting point?",
+    "options": ["3 km", "4 km", "5 km", "6 km"],
+    "correctAnswer": "3 km"
+  },
+  {
+    "questionText": "A man is facing west. He turns 90° clockwise, then 180° anticlockwise. Which direction is he facing?",
+    "options": ["North", "South", "East", "West"],
+    "correctAnswer": "South"
+  },
+  {
+    "questionText": "X walks 10 km north, then 6 km west, then 10 km south. How far is he from the starting point?",
+    "options": ["4 km", "6 km", "8 km", "10 km"],
+    "correctAnswer": "6 km"
+  },
+  {
+    "questionText": "Five people A, B, C, D, E are sitting in a row. A is left of B but right of C. D is right of B. Who is in the middle?",
+    "options": ["A", "B", "C", "D"],
+    "correctAnswer": "B"
+  },
+  {
+    "questionText": "Six friends are sitting around a circular table. P is to the left of Q and opposite to R. Who is sitting between Q and R?",
+    "options": ["P", "Q", "R", "S"],
+    "correctAnswer": "P"
+  },
+  {
+    "questionText": "Four friends are sitting in a line. A is to the right of B. C is to the left of D. Who is sitting at the extreme ends?",
+    "options": ["A and B", "B and C", "B and D", "A and D"],
+    "correctAnswer": "B and D"
+  },
+  {
+    "questionText": "Five boys are standing in a line. R is taller than S but shorter than T. U is taller than T but shorter than V. Who is the tallest?",
+    "options": ["T", "U", "V", "R"],
+    "correctAnswer": "V"
+  },
+  {
+    "questionText": "Four persons A, B, C, D are standing in a square. A is north of B. D is east of C. Who is diagonally opposite to A?",
+    "options": ["B", "C", "D", "Cannot be determined"],
+    "correctAnswer": "D"
+  },
+  {
+    "questionText": "Statements: All dogs are cats. All cats are animals. Conclusions: (i) All dogs are animals (ii) All animals are cats.",
+    "options": ["Only (i) follows", "Only (ii) follows", "Both follow", "None follows"],
+    "correctAnswer": "Only (i) follows"
+  },
+  {
+    "questionText": "Statements: Some pens are pencils. Some pencils are erasers. Conclusions: (i) Some pens are erasers (ii) Some pencils are pens.",
+    "options": ["Only (i) follows", "Only (ii) follows", "Both follow", "None follows"],
+    "correctAnswer": "Only (ii) follows"
+  },
+  {
+    "questionText": "Statements: No book is a pen. Some pens are pencils. Conclusions: (i) Some books are pencils (ii) No pencil is a book.",
+    "options": ["Only (i) follows", "Only (ii) follows", "Both follow", "None follows"],
+    "correctAnswer": "Only (ii) follows"
+  },
+  {
+    "questionText": "Statements: All flowers are trees. Some trees are green. Conclusions: (i) Some flowers are green (ii) All trees are flowers.",
+    "options": ["Only (i) follows", "Only (ii) follows", "Both follow", "None follows"],
+    "correctAnswer": "Only (i) follows"
+  },
+  {
+    "questionText": "Statements: All apples are fruits. No fruit is a vegetable. Conclusions: (i) Some apples are vegetables (ii) No apple is a vegetable.",
+    "options": ["Only (i) follows", "Only (ii) follows", "Both follow", "None follows"],
+    "correctAnswer": "Only (ii) follows"
+  },
+  {
+    "questionText": "Cat : Kitten :: Dog : ?",
+    "options": ["Puppy", "Cub", "Baby", "Young"],
+    "correctAnswer": "Puppy"
+  },
+  {
+    "questionText": "Water : Thirst :: Food : ?",
+    "options": ["Hunger", "Eat", "Cook", "Taste"],
+    "correctAnswer": "Hunger"
+  },
+  {
+    "questionText": "Doctor : Hospital :: Teacher : ?",
+    "options": ["School", "College", "Classroom", "Education"],
+    "correctAnswer": "School"
+  },
+  {
+    "questionText": "Pen : Write :: Knife : ?",
+    "options": ["Cut", "Sharp", "Blade", "Metal"],
+    "correctAnswer": "Cut"
+  },
+  {
+    "questionText": "Soldier : Army :: Sailor : ?",
+    "options": ["Navy", "Ship", "Water", "Sea"],
+    "correctAnswer": "Navy"
+  },
+  {
+    "questionText": "Which is the odd one out?",
+    "options": ["Apple", "Banana", "Mango", "Tomato"],
+    "correctAnswer": "Tomato"
+  },
+  {
+    "questionText": "Which is the odd one out?",
+    "options": ["Circle", "Square", "Rectangle", "Triangle"],
+    "correctAnswer": "Circle"
+  },
+  {
+    "questionText": "Which is the odd one out?",
+    "options": ["Bus", "Car", "Train", "Aeroplane"],
+    "correctAnswer": "Aeroplane"
+  },
+  {
+    "questionText": "Which is the odd one out?",
+    "options": ["Iron", "Copper", "Mercury", "Gold"],
+    "correctAnswer": "Mercury"
+  },
+  {
+    "questionText": "Which is the odd one out?",
+    "options": ["Rose", "Lotus", "Lily", "Mango"],
+    "correctAnswer": "Mango"
+  },
+  {
+    "questionText": "If all roses are flowers and some flowers are yellow, can we conclude that some roses are yellow?",
+    "options": ["Yes", "No", "Cannot be determined", "None of these"],
+    "correctAnswer": "Cannot be determined"
+  },
+  {
+    "questionText": "If 5 machines make 5 items in 5 minutes, how many machines are needed to make 100 items in 100 minutes?",
+    "options": ["5", "10", "20", "25"],
+    "correctAnswer": "5"
+  },
+  {
+    "questionText": "In a group of 100 people, 72 like coffee, 43 like tea. How many like both coffee and tea (minimum)?",
+    "options": ["15", "20", "25", "30"],
+    "correctAnswer": "15"
+  },
+  {
+    "questionText": "A is twice as old as B. B is 4 years older than C. If A is 20, what is C's age?",
+    "options": ["6", "8", "10", "12"],
+    "correctAnswer": "8"
+  },
+  {
+    "questionText": "If 15 men can build a wall in 20 days, how long will 30 men take?",
+    "options": ["5 days", "10 days", "15 days", "40 days"],
+    "correctAnswer": "10 days"
+  },
+  {
+    "questionText": "Which number is different: 16, 25, 36, 49, 64, 81, 99?",
+    "options": ["49", "64", "81", "99"],
+    "correctAnswer": "99"
+  },
+  {
+    "questionText": "Arrange in order of dictionary: (i) Apple (ii) Appear (iii) Application (iv) Apply",
+    "options": ["Appear, Apple, Application, Apply", "Apple, Appear, Application, Apply", "Appear, Apple, Apply, Application", "Apple, Appear, Apply, Application"],
+    "correctAnswer": "Appear, Apple, Application, Apply"
+  },
+  {
+    "questionText": "If in a certain code, 2 is written as 5, 3 as 6, 4 as 7, then what is 24 written as?",
+    "options": ["57", "58", "59", "60"],
+    "correctAnswer": "57"
+  },
+  {
+    "questionText": "Choose the missing number: 2, 5, 10, 17, 26, ?",
+    "options": ["35", "36", "37", "38"],
+    "correctAnswer": "37"
+  },
+  {
+    "questionText": "In a certain code language, 'MANGO' is coded as 'MAN12'. Then 'APPLE' is coded as?",
+    "options": ["APP12", "APP15", "APL12", "APL15"],
+    "correctAnswer": "APP15"
+  },
+  {
+    "questionText": "Find the missing term: 3, 9, 27, 81, ?",
+    "options": ["162", "243", "324", "108"],
+    "correctAnswer": "243"
+  },
+  {
+    "questionText": "1, 4, 9, 16, 25, ?",
+    "options": ["36", "49", "64", "81"],
+    "correctAnswer": "36"
+  },
+  {
+    "questionText": "A, D, H, M, S, ?",
+    "options": ["X", "Y", "Z", "W"],
+    "correctAnswer": "Z"
+  },
+  {
+    "questionText": "2, 6, 12, 20, 30, ?",
+    "options": ["36", "40", "42", "45"],
+    "correctAnswer": "42"
+  },
+  {
+    "questionText": "21, 18, 14, 9, ?",
+    "options": ["3", "4", "5", "6"],
+    "correctAnswer": "3"
+  },
+  {
+    "questionText": "If CAT = DBU, then BAT = ?",
+    "options": ["ABU", "CBU", "BCU", "ACU"],
+    "correctAnswer": "CBU"
+  },
+  {
+    "questionText": "In a certain code, DOG = 26. What is CAT = ?",
+    "options": ["24", "25", "26", "27"],
+    "correctAnswer": "24"
+  },
+  {
+    "questionText": "If RAM = 36, then SUN = ?",
+    "options": ["54", "55", "56", "57"],
+    "correctAnswer": "57"
+  },
+  {
+    "questionText": "In a code language, 'EARTH' is written as 'FSIUI'. How is 'MOON' written?",
+    "options": ["NPPQ", "NQQP", "NPPO", "NQQO"],
+    "correctAnswer": "NPPQ"
+  },
+  {
+    "questionText": "If SKY = 63, then STAR = ?",
+    "options": ["62", "63", "64", "65"],
+    "correctAnswer": "64"
+  },
+  {
+    "questionText": "A is the father of B. B is the sister of C. How is A related to C?",
+    "options": ["Father", "Uncle", "Grandfather", "Brother"],
+    "correctAnswer": "Father"
+  },
+  {
+    "questionText": "Pointing to a man, Ritu said, 'He is the son of my mother's only son.' How is the man related to Ritu?",
+    "options": ["Brother", "Son", "Nephew", "Cousin"],
+    "correctAnswer": "Brother"
+  },
+  {
+    "questionText": "P is the brother of Q. Q is the mother of R. How is P related to R?",
+    "options": ["Father", "Uncle", "Grandfather", "Brother"],
+    "correctAnswer": "Uncle"
+  },
+  {
+    "questionText": "A is the father of B. C is the daughter of B. How is A related to C?",
+    "options": ["Father", "Grandfather", "Uncle", "Brother"],
+    "correctAnswer": "Grandfather"
+  },
+  {
+    "questionText": "Pointing to a girl, Rohit said, 'She is the daughter of my grandfather's son.' How is the girl related to Rohit?",
+    "options": ["Sister", "Cousin", "Niece", "Brother"],
+    "correctAnswer": "Brother"
+  },
+  {
+    "questionText": "A man walks 4 km north, then 3 km east. How far is he from the starting point?",
+    "options": ["4 km", "5 km", "6 km", "7 km"],
+    "correctAnswer": "5 km"
+  },
+  {
+    "questionText": "A person goes 5 km south, then 12 km east. Find the shortest distance.",
+    "options": ["11 km", "12 km", "13 km", "14 km"],
+    "correctAnswer": "13 km"
+  },
+  {
+    "questionText": "X walks 10 km north, 5 km west, 10 km south. How far is he from the starting point?",
+    "options": ["0 km", "5 km", "10 km", "15 km"],
+    "correctAnswer": "5 km west"
+  },
+  {
+    "questionText": "A man is facing east. He turns 90° right, then 180° left. Which direction is he facing?",
+    "options": ["North", "South", "East", "West"],
+    "correctAnswer": "North"
+  },
+  {
+    "questionText": "After walking 2 km north, a man turns right, walks 2 km, again turns right and walks 2 km. How far is he from the starting point?",
+    "options": ["0 km", "2 km", "4 km", "6 km"],
+    "correctAnswer": "0 (back to starting point)"
+  },
+  {
+    "questionText": "Six friends A, B, C, D, E, F are sitting in a circle. A is to the left of B, C is opposite D. Who is to the immediate right of A?",
+    "options": ["B", "C", "D", "F"],
+    "correctAnswer": "C"
+  },
+  {
+    "questionText": "Five persons are sitting in a line. A is right of B, C is left of D. E is left of A. Who is in the middle?",
+    "options": ["A", "B", "C", "D"],
+    "correctAnswer": "C"
+  },
+  {
+    "questionText": "Four boys are standing in a row. R is taller than S but shorter than T. U is taller than T. Who is tallest?",
+    "options": ["R", "S", "T", "U"],
+    "correctAnswer": "U"
+  },
+  {
+    "questionText": "P, Q, R, S are sitting in a row. Q is left of R, P is right of S. Who is sitting at the extreme ends?",
+    "options": ["P and Q", "Q and R", "P and R", "P and S"],
+    "correctAnswer": "P and R"
+  },
+  {
+    "questionText": "Four friends A, B, C, D are facing north. A is left of B, C is right of D. Who is second from the left?",
+    "options": ["A", "B", "C", "D"],
+    "correctAnswer": "B"
+  },
+  {
+    "questionText": "Statements: All chairs are tables. Some tables are beds. Conclusions: (i) Some chairs are beds (ii) Some tables are chairs.",
+    "options": ["Only (i) follows", "Only (ii) follows", "Both follow", "None follows"],
+    "correctAnswer": "Only (ii) follows"
+  },
+  {
+    "questionText": "Statements: Some pens are books. All books are copies. Conclusions: (i) Some pens are copies (ii) All copies are books.",
+    "options": ["Only (i) follows", "Only (ii) follows", "Both follow", "None follows"],
+    "correctAnswer": "Only (i) follows"
+  },
+  {
+    "questionText": "Statements: No apple is mango. Some mangoes are fruits. Conclusions: (i) Some apples are fruits (ii) No fruit is apple.",
+    "options": ["Only (i) follows", "Only (ii) follows", "Both follow", "None follows"],
+    "correctAnswer": "Only (ii) follows"
+  },
+  {
+    "questionText": "Statements: All fans are machines. Some machines are wires. Conclusions: (i) Some fans are wires (ii) Some wires are machines.",
+    "options": ["Only (i) follows", "Only (ii) follows", "Both follow", "None follows"],
+    "correctAnswer": "Only (ii) follows"
+  },
+  {
+    "questionText": "Statements: All soldiers are brave. No brave is coward. Conclusions: (i) No soldier is coward (ii) Some cowards are brave.",
+    "options": ["Only (i) follows", "Only (ii) follows", "Both follow", "None follows"],
+    "correctAnswer": "Only (i) follows"
+  },
+  {
+    "questionText": "Bird : Nest :: Dog : ?",
+    "options": ["Kennel", "Stable", "House", "Hole"],
+    "correctAnswer": "Kennel"
+  },
+  {
+    "questionText": "Eye : See :: Ear : ?",
+    "options": ["Hear", "Sound", "Noise", "Listen"],
+    "correctAnswer": "Hear"
+  },
+  {
+    "questionText": "Book : Reading :: Food : ?",
+    "options": ["Eating", "Cooking", "Hunger", "Taste"],
+    "correctAnswer": "Eating"
+  },
+  {
+    "questionText": "Doctor : Medicine :: Teacher : ?",
+    "options": ["Knowledge", "Book", "School", "Student"],
+    "correctAnswer": "Knowledge"
+  },
+  {
+    "questionText": "Horse : Stable :: Car : ?",
+    "options": ["Garage", "Road", "Fuel", "Driver"],
+    "correctAnswer": "Garage"
+  },
+  {
+    "questionText": "Which is the odd one out?",
+    "options": ["Cow", "Goat", "Lion", "Horse"],
+    "correctAnswer": "Lion"
+  },
+  {
+    "questionText": "Which is the odd one out?",
+    "options": ["Red", "Green", "Yellow", "Square"],
+    "correctAnswer": "Square"
+  },
+  {
+    "questionText": "Which is the odd one out?",
+    "options": ["Iron", "Gold", "Silver", "Plastic"],
+    "correctAnswer": "Plastic"
+  },
+  {
+    "questionText": "Which is the odd one out?",
+    "options": ["Bus", "Car", "Bike", "Train"],
+    "correctAnswer": "Train"
+  },
+  {
+    "questionText": "Which is the odd one out?",
+    "options": ["Pen", "Pencil", "Eraser", "Paper"],
+    "correctAnswer": "Paper"
+  },
+  {
+    "questionText": "If 10 men build a wall in 15 days, how many days will 30 men take?",
+    "options": ["5 days", "10 days", "15 days", "20 days"],
+    "correctAnswer": "5 days"
+  },
+  {
+    "questionText": "A is twice as old as B. After 5 years, A will be 30. What is B's age?",
+    "options": ["10 years", "12 years", "15 years", "20 years"],
+    "correctAnswer": "10 years"
+  },
+  {
+    "questionText": "In a group of 100, 70 play cricket, 40 play football. Minimum playing both?",
+    "options": ["10", "15", "20", "25"],
+    "correctAnswer": "10"
+  },
+  {
+    "questionText": "If 5 pencils cost ₹25, how much will 12 pencils cost?",
+    "options": ["₹50", "₹55", "₹60", "₹65"],
+    "correctAnswer": "₹60"
+  },
+  {
+    "questionText": "If 6 workers complete a job in 12 days, how many workers are needed for the same in 6 days?",
+    "options": ["8 workers", "10 workers", "12 workers", "15 workers"],
+    "correctAnswer": "12 workers"
+  },
+  {
+    "questionText": "Which is different: 64, 81, 49, 121, 50",
+    "options": ["64", "81", "49", "50"],
+    "correctAnswer": "50"
+  },
+  {
+    "questionText": "Arrange in dictionary order: (i) Mango (ii) Man (iii) Manager (iv) Mansion",
+    "options": ["Man, Manager, Mango, Mansion", "Manager, Man, Mango, Mansion", "Man, Mango, Manager, Mansion", "Mango, Man, Manager, Mansion"],
+    "correctAnswer": "Man, Manager, Mango, Mansion"
+  },
+  {
+    "questionText": "If 1 = 2, 2 = 4, 3 = 6, then 10 = ?",
+    "options": ["10", "15", "20", "25"],
+    "correctAnswer": "20"
+  },
+  {
+    "questionText": "Missing number: 5, 10, 20, 40, ?",
+    "options": ["60", "70", "80", "90"],
+    "correctAnswer": "80"
+  },
+  {
+    "questionText": "In a code, 'DELHI' is written as 'EDKJI'. Then 'PATNA' is written as?",
+    "options": ["QBUSZ", "QBUZS", "QBUSY", "QBUZY"],
+    "correctAnswer": "QBUSZ"
+  },
+  {
+    "questionText": "Find the missing number: 2, 6, 12, 20, ?",
+    "options": ["28", "30", "32", "35"],
+    "correctAnswer": "30"
+  },
+  {
+    "questionText": "A, C, F, J, O, ?",
+    "options": ["T", "U", "V", "W"],
+    "correctAnswer": "U"
+  },
+  {
+    "questionText": "5, 10, 20, 40, ?",
+    "options": ["60", "70", "80", "90"],
+    "correctAnswer": "80"
+  },
+  {
+    "questionText": "11, 14, 19, 26, 35, ?",
+    "options": ["44", "46", "48", "50"],
+    "correctAnswer": "46"
+  },
+  {
+    "questionText": "AZ, BY, CX, DW, ?",
+    "options": ["EV", "EU", "FV", "EW"],
+    "correctAnswer": "EV"
+  },
+  {
+    "questionText": "2, 5, 10, 17, 26, ?",
+    "options": ["35", "36", "37", "38"],
+    "correctAnswer": "37"
+  },
+  {
+    "questionText": "7, 14, 28, 56, ?",
+    "options": ["84", "98", "112", "120"],
+    "correctAnswer": "112"
+  },
+  {
+    "questionText": "B, D, G, K, P, ?",
+    "options": ["U", "V", "W", "X"],
+    "correctAnswer": "V"
+  },
+  {
+    "questionText": "121, 144, 169, 196, ?",
+    "options": ["215", "225", "235", "245"],
+    "correctAnswer": "225"
+  },
+  {
+    "questionText": "1, 8, 27, 64, ?",
+    "options": ["81", "100", "121", "125"],
+    "correctAnswer": "125"
+  },
+  {
+    "questionText": "If CAT = DBU, then DOG = ?",
+    "options": ["EPH", "EQH", "EPI", "EOH"],
+    "correctAnswer": "EPH"
+  },
+  {
+    "questionText": "In a code, SKY = 63, then STAR = ?",
+    "options": ["62", "63", "64", "65"],
+    "correctAnswer": "64"
+  },
+  {
+    "questionText": "If BOOK = 43, PEN = 35, then COPY = ?",
+    "options": ["47", "49", "51", "53"],
+    "correctAnswer": "49"
+  },
+  {
+    "questionText": "If NOTE is coded as OPUF, then WORD = ?",
+    "options": ["XPSE", "XPSF", "XQSF", "YPSF"],
+    "correctAnswer": "XPSF"
+  },
+  {
+    "questionText": "In a certain code, 'EARTH' is written as 'FSIUI'. Then 'MOON' = ?",
+    "options": ["NPPQ", "NQQP", "NPPO", "NQQO"],
+    "correctAnswer": "NPPQ"
+  },
+  {
+    "questionText": "If MANGO = MAN12, then APPLE = ?",
+    "options": ["APP12", "APP15", "APL12", "APL15"],
+    "correctAnswer": "APP15"
+  },
+  {
+    "questionText": "In a code, ROSE = 36, then LOTUS = ?",
+    "options": ["60", "64", "66", "68"],
+    "correctAnswer": "66"
+  },
+  {
+    "questionText": "If DELHI = 52, then MUMBAI = ?",
+    "options": ["70", "72", "73", "74"],
+    "correctAnswer": "73"
+  },
+  {
+    "questionText": "In a code, 'GOOD' = 47. Then 'WORK' = ?",
+    "options": ["71", "72", "73", "74"],
+    "correctAnswer": "73"
+  },
+  {
+    "questionText": "If LUCKNOW is coded as 121, then PATNA = ?",
+    "options": ["71", "72", "73", "74"],
+    "correctAnswer": "74"
+  },
+  {
+    "questionText": "A is the brother of B. B is the son of C. How is A related to C?",
+    "options": ["Son", "Brother", "Nephew", "Father"],
+    "correctAnswer": "Son"
+  },
+  {
+    "questionText": "Pointing to a girl, Ramesh said, 'She is the daughter of my mother's only son.' Who is she to Ramesh?",
+    "options": ["Sister", "Daughter", "Niece", "Cousin"],
+    "correctAnswer": "Daughter"
+  },
+  {
+    "questionText": "P is father of Q, who is mother of R. How is P related to R?",
+    "options": ["Father", "Grandfather", "Uncle", "Brother"],
+    "correctAnswer": "Grandfather"
+  },
+  {
+    "questionText": "A man said, 'That lady is my mother's only son's wife.' Who is the lady to the man?",
+    "options": ["Sister", "Mother", "Wife", "Sister-in-law"],
+    "correctAnswer": "Wife"
+  },
+  {
+    "questionText": "Pointing to a boy, Rita said, 'He is the son of my grandfather's daughter.' Who is he to Rita?",
+    "options": ["Brother", "Cousin", "Nephew", "Son"],
+    "correctAnswer": "Cousin"
+  },
+  {
+    "questionText": "A is father of B. B is mother of C. How is A related to C?",
+    "options": ["Father", "Grandfather", "Uncle", "Brother"],
+    "correctAnswer": "Grandfather"
+  },
+  {
+    "questionText": "If X is the father of Y, and Y is the brother of Z, then how is Z related to X?",
+    "options": ["Son", "Daughter", "Child", "Sibling"],
+    "correctAnswer": "Child"
+  },
+  {
+    "questionText": "P is the mother of Q. R is the father of P. How is Q related to R?",
+    "options": ["Son", "Daughter", "Grandson", "Granddaughter"],
+    "correctAnswer": "Grandson"
+  },
+  {
+    "questionText": "A is the brother of B, B is the sister of C. How is A related to C?",
+    "options": ["Brother", "Cousin", "Uncle", "Father"],
+    "correctAnswer": "Brother"
+  },
+  {
+    "questionText": "Pointing to a photo, Amit said, 'She is the mother of my father's son.' Who is she?",
+    "options": ["Mother", "Sister", "Wife", "Aunt"],
+    "correctAnswer": "Mother"
+  },
+  {
+    "questionText": "A man walks 3 km north, then 4 km east, then 5 km south. How far is he from starting point?",
+    "options": ["2 km", "3 km", "4 km", "5 km"],
+    "correctAnswer": "2 km"
+  },
+  {
+    "questionText": "A person goes 10 km west, then 5 km south. Find the shortest distance.",
+    "options": ["5√5 km", "11.2 km", "12 km", "15 km"],
+    "correctAnswer": "11.2 km"
+  },
+  {
+    "questionText": "A walks 4 km north, then right 3 km, then right 4 km. How far is he from starting point?",
+    "options": ["3 km", "4 km", "5 km", "6 km"],
+    "correctAnswer": "3 km"
+  },
+  {
+    "questionText": "A man is facing west. He turns 90° clockwise, then 180° anticlockwise. Which direction is he facing?",
+    "options": ["North", "South", "East", "West"],
+    "correctAnswer": "South"
+  },
+  {
+    "questionText": "X walks 10 km north, then 6 km west, then 10 km south. How far is he from starting point?",
+    "options": ["4 km", "6 km", "8 km", "10 km"],
+    "correctAnswer": "6 km"
+  },
+  {
+    "questionText": "A starts facing east, turns right, walks 5 km, again turns right, walks 5 km. Which direction is he facing?",
+    "options": ["North", "South", "East", "West"],
+    "correctAnswer": "West"
+  },
+  {
+    "questionText": "A person walks 7 km north, then 24 km east. What is shortest distance?",
+    "options": ["25 km", "26 km", "28 km", "30 km"],
+    "correctAnswer": "25 km"
+  },
+  {
+    "questionText": "A man walks 2 km south, then 3 km west, then 2 km north. Distance from start?",
+    "options": ["2 km", "3 km", "4 km", "5 km"],
+    "correctAnswer": "3 km"
+  },
+  {
+    "questionText": "Facing north, a person turns left, then right, then right. Which direction now?",
+    "options": ["North", "South", "East", "West"],
+    "correctAnswer": "East"
+  },
+  {
+    "questionText": "A person goes 4 km east, then 3 km north, then 4 km west. Where is he now?",
+    "options": ["3 km north of start", "3 km south of start", "4 km north of start", "4 km south of start"],
+    "correctAnswer": "3 km north of start"
+  },
+  {
+    "questionText": "Five people A, B, C, D, E are sitting in a row. A is left of B, but right of C. D is right of B. Who is in the middle?",
+    "options": ["A", "B", "C", "D"],
+    "correctAnswer": "B"
+  },
+  {
+    "questionText": "Six friends sit around a circular table. P is to left of Q and opposite R. Who is between Q and R?",
+    "options": ["P", "Q", "R", "S"],
+    "correctAnswer": "P"
+  },
+  {
+    "questionText": "Four friends sit in a line. A is right of B. C is left of D. Who are at ends?",
+    "options": ["A and B", "B and C", "B and D", "A and D"],
+    "correctAnswer": "B and D"
+  },
+  {
+    "questionText": "Five boys are standing. R taller than S but shorter than T. U taller than T but shorter than V. Who is tallest?",
+    "options": ["T", "U", "V", "R"],
+    "correctAnswer": "V"
+  },
+  {
+    "questionText": "Four persons A, B, C, D stand in a square. A north of B, D east of C. Who is diagonally opposite A?",
+    "options": ["B", "C", "D", "Cannot be determined"],
+    "correctAnswer": "D"
+  },
+  {
+    "questionText": "Six people sit in a line. X left of Y, Y right of Z, P between X and Q, R at extreme end. Who is in middle?",
+    "options": ["P", "Q", "R", "Y"],
+    "correctAnswer": "P"
+  },
+  {
+    "questionText": "Five children P, Q, R, S, T sit in row. Q left of R, T right of S, P between S and Q. Who is in center?",
+    "options": ["P", "Q", "R", "S"],
+    "correctAnswer": "P"
+  },
+  {
+    "questionText": "Four boys face north. A left of B, C right of D. Who is second from left?",
+    "options": ["A", "B", "C", "D"],
+    "correctAnswer": "B"
+  },
+  {
+    "questionText": "Eight people in a circle. A between B and C, opposite D. Who is opposite C?",
+    "options": ["A", "B", "D", "E"],
+    "correctAnswer": "D"
+  },
+  {
+    "questionText": "Six friends in line. M left of N, O right of P, Q between N and P, R at right end. Who is in middle?",
+    "options": ["M", "N", "O", "P"],
+    "correctAnswer": "N"
+  },
+  {
+    "questionText": "Statements: All dogs are cats. All cats are animals. Conclusions: (i) All dogs are animals (ii) All animals are cats.",
+    "options": ["Only (i) follows", "Only (ii) follows", "Both follow", "None follows"],
+    "correctAnswer": "Only (i) follows"
+  },
+  {
+    "questionText": "Statements: Some pens are pencils. Some pencils are erasers. Conclusions: (i) Some pens are erasers (ii) Some pencils are pens.",
+    "options": ["Only (i) follows", "Only (ii) follows", "Both follow", "None follows"],
+    "correctAnswer": "Neither (i) nor (ii) follows"
+  },
+  {
+    "questionText": "Statements: No book is pen. Some pens are pencils. Conclusions: (i) Some books are pencils (ii) No pencil is book.",
+    "options": ["Only (i) follows", "Only (ii) follows", "Both follow", "None follows"],
+    "correctAnswer": "Only (ii) follows"
+  },
+  {
+    "questionText": "Statements: All flowers are trees. Some trees are green. Conclusions: (i) Some flowers are green (ii) All trees are flowers.",
+    "options": ["Only (i) follows", "Only (ii) follows", "Both follow", "None follows"],
+    "correctAnswer": "Only (i) follows"
+  },
+  {
+    "questionText": "Statements: All apples are fruits. No fruit is vegetable. Conclusions: (i) Some apples are vegetables (ii) No apple is vegetable.",
+    "options": ["Only (i) follows", "Only (ii) follows", "Both follow", "None follows"],
+    "correctAnswer": "Only (ii) follows"
+  },
+  {
+    "questionText": "Statements: All A are B. All B are C. Conclusions: (i) All A are C (ii) Some C are A.",
+    "options": ["Only (i) follows", "Only (ii) follows", "Both follow", "None follows"],
+    "correctAnswer": "Both follow"
+  },
+  {
+    "questionText": "Statements: Some cars are buses. All buses are trucks. Conclusions: (i) Some cars are trucks (ii) All trucks are buses.",
+    "options": ["Only (i) follows", "Only (ii) follows", "Both follow", "None follows"],
+    "correctAnswer": "Only (i) follows"
+  },
+  {
+    "questionText": "Statements: All birds are animals. Some animals are humans. Conclusions: (i) Some humans are birds (ii) Some birds are humans.",
+    "options": ["Only (i) follows", "Only (ii) follows", "Both follow", "None follows"],
+    "correctAnswer": "Neither (i) nor (ii) follows"
+  },
+  {
+    "questionText": "Statements: No teacher is student. Some students are players. Conclusions: (i) Some players are teachers (ii) No player is teacher.",
+    "options": ["Only (i) follows", "Only (ii) follows", "Both follow", "None follows"],
+    "correctAnswer": "Only (ii) follows"
+  },
+  {
+    "questionText": "Statements: All books are copies. Some copies are pens. Conclusions: (i) Some pens are books (ii) Some copies are books.",
+    "options": ["Only (i) follows", "Only (ii) follows", "Both follow", "None follows"],
+    "correctAnswer": "Only (ii) follows"
+  },
+  {
+    "questionText": "Cat : Kitten :: Dog : ?",
+    "options": ["Puppy", "Cub", "Baby", "Young"],
+    "correctAnswer": "Puppy"
+  },
+  {
+    "questionText": "Water : Thirst :: Food : ?",
+    "options": ["Hunger", "Eat", "Cook", "Taste"],
+    "correctAnswer": "Hunger"
+  },
+  {
+    "questionText": "Doctor : Hospital :: Teacher : ?",
+    "options": ["School", "College", "Classroom", "Education"],
+    "correctAnswer": "School"
+  },
+  {
+    "questionText": "Pen : Write :: Knife : ?",
+    "options": ["Cut", "Sharp", "Blade", "Metal"],
+    "correctAnswer": "Cut"
+  },
+  {
+    "questionText": "Soldier : Army :: Sailor : ?",
+    "options": ["Navy", "Ship", "Water", "Sea"],
+    "correctAnswer": "Navy"
+  },
+  {
+    "questionText": "Bird : Fly :: Fish : ?",
+    "options": ["Swim", "Water", "Fin", "Ocean"],
+    "correctAnswer": "Swim"
+  },
+  {
+    "questionText": "Wheel : Car :: Wing : ?",
+    "options": ["Plane", "Bird", "Fly", "Air"],
+    "correctAnswer": "Plane"
+  },
+  {
+    "questionText": "Hot : Cold :: Day : ?",
+    "options": ["Night", "Light", "Dark", "Sun"],
+    "correctAnswer": "Night"
+  },
+  {
+    "questionText": "Sun : Light :: Moon : ?",
+    "options": ["Reflection", "Light", "Night", "Glow"],
+    "correctAnswer": "Reflection"
+  },
+  {
+    "questionText": "Book : Author :: Song : ?",
+    "options": ["Singer", "Composer", "Music", "Lyrics"],
+    "correctAnswer": "Singer"
+  },
+  {
+    "questionText": "Which is the odd one out?",
+    "options": ["Apple", "Banana", "Mango", "Potato"],
+    "correctAnswer": "Potato"
+  },
+  {
+    "questionText": "Which is the odd one out?",
+    "options": ["Circle", "Square", "Triangle", "Cube"],
+    "correctAnswer": "Cube"
+  },
+  {
+    "questionText": "Which is the odd one out?",
+    "options": ["Bus", "Car", "Train", "Aeroplane"],
+    "correctAnswer": "Aeroplane"
+  },
+  {
+    "questionText": "Which is the odd one out?",
+    "options": ["Iron", "Copper", "Mercury", "Gold"],
+    "correctAnswer": "Mercury"
+  },
+  {
+    "questionText": "Which is the odd one out?",
+    "options": ["Rose", "Lotus", "Lily", "Mango"],
+    "correctAnswer": "Mango"
+  },
+  {
+    "questionText": "Which is the odd one out?",
+    "options": ["Monday", "Tuesday", "April", "Friday"],
+    "correctAnswer": "April"
+  },
+  {
+    "questionText": "Which is the odd one out?",
+    "options": ["Foot", "Hand", "Nose", "Eye"],
+    "correctAnswer": "Nose"
+  },
+  {
+    "questionText": "Which is the odd one out?",
+    "options": ["2", "3", "5", "9"],
+    "correctAnswer": "9"
+  },
+  {
+    "questionText": "Which is the odd one out?",
+    "options": ["Oxygen", "Nitrogen", "Helium", "Water"],
+    "correctAnswer": "Water"
+  },
+  {
+    "questionText": "Which is the odd one out?",
+    "options": ["Table", "Chair", "Sofa", "Spoon"],
+    "correctAnswer": "Spoon"
+  },
+  {
+    "questionText": "If 5 machines make 5 items in 5 minutes, how many machines for 100 items in 100 minutes?",
+    "options": ["5", "10", "20", "25"],
+    "correctAnswer": "5"
+  },
+  {
+    "questionText": "A is twice B. B is 4 older than C. If A=20, what is C's age?",
+    "options": ["6", "8", "10", "12"],
+    "correctAnswer": "8"
+  },
+  {
+    "questionText": "In 100 people, 72 like coffee, 43 like tea. Minimum both?",
+    "options": ["10", "15", "20", "25"],
+    "correctAnswer": "15"
+  },
+  {
+    "questionText": "If 15 men build wall in 20 days, how long will 30 men take?",
+    "options": ["5 days", "10 days", "15 days", "40 days"],
+    "correctAnswer": "10 days"
+  },
+  {
+    "questionText": "If train travels 60 km/h, how far in 2.5 hrs?",
+    "options": ["120 km", "140 km", "150 km", "160 km"],
+    "correctAnswer": "150 km"
+  },
+  {
+    "questionText": "If 2 pens = ₹10, what is cost of 12 pens?",
+    "options": ["₹50", "₹55", "₹60", "₹65"],
+    "correctAnswer": "₹60"
+  },
+  {
+    "questionText": "A alone completes work in 10 days, B in 15. Together in how many days?",
+    "options": ["5 days", "6 days", "7.5 days", "8 days"],
+    "correctAnswer": "6 days"
+  },
+  {
+    "questionText": "A:B = 2:3, B:C = 4:5. Find A:C.",
+    "options": ["8:15", "6:15", "2:5", "3:4"],
+    "correctAnswer": "8:15"
+  },
+  {
+    "questionText": "If 1/3 of a number is 15, what is number?",
+    "options": ["30", "35", "40", "45"],
+    "correctAnswer": "45"
+  },
+  {
+    "questionText": "If perimeter of square = 36, what is side?",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": "9"
+  },
+  {
+    "questionText": "Which is different: 16, 25, 36, 49, 55",
+    "options": ["16", "25", "36", "55"],
+    "correctAnswer": "55"
+  },
+  {
+    "questionText": "Arrange: (i) Appear (ii) Apply (iii) Apple (iv) Application",
+    "options": ["Appear, Apple, Apply, Application", "Apple, Appear, Application, Apply", "Appear, Apple, Application, Apply", "Apple, Appear, Apply, Application"],
+    "correctAnswer": "Appear, Apple, Apply, Application"
+  },
+  {
+    "questionText": "If 2=5, 3=6, 4=7, then 24=?",
+    "options": ["54", "56", "57", "58"],
+    "correctAnswer": "57"
+  },
+  {
+    "questionText": "Find missing: 2, 5, 10, 17, 26, ?",
+    "options": ["35", "36", "37", "38"],
+    "correctAnswer": "37"
+  },
+  {
+    "questionText": "In a code, DELHI=EDKJI. Then PATNA=?",
+    "options": ["QBUSZ", "QBUZS", "QBUSY", "QBUZY"],
+    "correctAnswer": "QBUSZ"
+  },
+  {
+    "questionText": "If 15 men can build a wall in 12 days, how many days for 5 men?",
+    "options": ["30 days", "36 days", "40 days", "45 days"],
+    "correctAnswer": "36 days"
+  },
+  {
+    "questionText": "If cube of 3 = 27, cube of 4 = ?",
+    "options": ["48", "56", "64", "72"],
+    "correctAnswer": "64"
+  },
+  {
+    "questionText": "A clock shows 4:15. What is angle between hands?",
+    "options": ["7.5°", "15°", "22.5°", "37.5°"],
+    "correctAnswer": "37.5°"
+  },
+  {
+    "questionText": "If speed=60 km/h, distance=120 km. Time=?",
+    "options": ["1.5 hours", "2 hours", "2.5 hours", "3 hours"],
+    "correctAnswer": "2 hours"
+  },
+  {
+    "questionText": "If 8×3=65, 5×4=41, then 6×2=?",
+    "options": ["34", "36", "38", "40"],
+    "correctAnswer": "38"
+  }
+]
