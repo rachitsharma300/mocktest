@@ -14,8 +14,8 @@ function Result() {
     <div className="h-screen flex flex-col items-center justify-center bg-gray-900 text-white px-4">
       <h1 className="text-4xl font-bold mb-6">Quiz Completed! ✅</h1>
       <p className="text-xl mb-4">
-        You scored <span className="text-green-400 font-semibold">{score}</span> out of{" "}
-        <span className="text-blue-400 font-semibold">{total}</span>
+        You scored <span className="text-green-400 font-semibold">{score}</span>{" "}
+        out of <span className="text-blue-400 font-semibold">{total}</span>
       </p>
       <p className="mb-6">
         {score === total
