@@ -8,4 +8,5 @@ const API = axios.create({
 export const getQuestions = () => API.get("/questions");
 
 // ✅ Submit answers
-export const submitAnswers = (answers) => API.post("/questions/submit", answers);
+export const submitAnswers = (answers) =>
+  API.post("/questions/submit", answers);
