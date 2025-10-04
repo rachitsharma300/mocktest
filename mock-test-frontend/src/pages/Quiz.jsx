@@ -70,12 +70,13 @@ function Quiz() {
     handleSubmit();
   };
 
-  if (questions.length === 0) return <p className="text-center mt-10">Loading questions...</p>;
+  if (questions.length === 0)
+    return <p className="text-center mt-10">Loading questions...</p>;
 
   return (
     <div className="min-h-screen bg-gray-900 text-white p-4 flex flex-col items-center">
       <Timer initialMinutes={30} onTimeUp={handleTimeUp} />
-      
+
       <div className="mt-6 w-full max-w-xl">
         <QuestionCard
           question={questions[currentIndex]}
