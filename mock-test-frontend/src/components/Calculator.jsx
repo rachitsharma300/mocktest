@@ -17,7 +17,25 @@ function Calculator() {
     }
   };
 
-  const buttons = ["7","8","9","/","4","5","6","*","1","2","3","-","0",".","+","=","C"];
+  const buttons = [
+    "7",
+    "8",
+    "9",
+    "/",
+    "4",
+    "5",
+    "6",
+    "*",
+    "1",
+    "2",
+    "3",
+    "-",
+    "0",
+    ".",
+    "+",
+    "=",
+    "C",
+  ];
 
   return (
     <div className="bg-gray-900 text-white p-4 rounded-2xl shadow-lg w-64">
