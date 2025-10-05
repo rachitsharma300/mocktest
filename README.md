@@ -52,3 +52,9 @@ This application is mainly focused on <strong>IB JIO students</strong> who are p
 
 ---
 
+
+## 📄 License
+This project is currently private and under active development.  
+Usage and distribution are restricted until official release.
+
+---
