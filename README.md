@@ -44,3 +44,11 @@ This application is mainly focused on <strong>IB JIO students</strong> who are p
 - Improve UI with animations and better feedback  
 
 ---
+
+
+## 🧑‍💻 Author
+**Rachit Sharma**  
+*Passionate about building useful and intuitive educational tools.*
+
+---
+
