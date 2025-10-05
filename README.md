@@ -22,3 +22,8 @@ This application is built using modern full-stack technologies:
 - Responsive design for all devices  
 
 ---
+
+## 📊 Current Status
+**Status:** 🛠️ *Work in Progress*
+
+---
