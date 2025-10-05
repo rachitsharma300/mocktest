@@ -1,10 +1,7 @@
-## This is Reasoning Mock App
-### *Teach Use* **Spring Boot,** **MongoDb*,* **React,** **Tailwind.**
-## Status - **Work in progress**
+# 🧠 Reasoning Mock App
 
-<h1>IB JIO EXAM</h1> 
-<div>
-  <p align="centre">
-This Application mainly focus on IB JIO Students who Preparing for IB jio exam 2025 and already Enrolled on IB JIO.
-  </p>
-</div>
+## 📘 Project Overview
+**Reasoning Mock App** is designed to help students prepare effectively for the **IB JIO Exam 2025**.  
+It provides mock tests, reasoning practice sets, and analytics to track performance — all within an interactive and user-friendly interface.
+
+---
