@@ -36,3 +36,11 @@ This application is mainly focused on <strong>IB JIO students</strong> who are p
 </p>
 
 ---
+
+
+## 💡 Future Enhancements
+- Add leaderboard and analytics dashboard  
+- Enable timed tests and result export  
+- Improve UI with animations and better feedback  
+
+---
