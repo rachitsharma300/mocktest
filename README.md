@@ -27,3 +27,12 @@ This application is built using modern full-stack technologies:
 **Status:** 🛠️ *Work in Progress*
 
 ---
+
+## 🎯 Target Audience
+<h2 align="center">IB JIO EXAM 2025</h2>
+
+<p align="center">
+This application is mainly focused on <strong>IB JIO students</strong> who are preparing for the <strong>IB JIO Exam 2025</strong> and are already enrolled in the program.
+</p>
+
+---
