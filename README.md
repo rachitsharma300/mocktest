@@ -5,3 +5,13 @@
 It provides mock tests, reasoning practice sets, and analytics to track performance — all within an interactive and user-friendly interface.
 
 ---
+
+## 🚀 Tech Stack
+This application is built using modern full-stack technologies:
+
+- **Spring Boot** (Backend)
+- **MongoDB** (Database)
+- **React** (Frontend)
+- **Tailwind CSS** (Styling)
+
+---
