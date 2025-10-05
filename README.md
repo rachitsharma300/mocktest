@@ -15,3 +15,10 @@ This application is built using modern full-stack technologies:
 - **Tailwind CSS** (Styling)
 
 ---
+## 🧩 Features (Work in Progress)
+- Interactive reasoning mock tests  
+- Dynamic question sets from database  
+- User authentication and performance tracking  
+- Responsive design for all devices  
+
+---
